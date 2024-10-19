@@ -23,6 +23,7 @@ DonorGate is a powerful WordPress plugin designed to facilitate and streamline t
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Navigate to the DonorGate settings page to configure your plugin - Enter your Netcash Pay Now service Key
 4. Create your first donation form and add it to your site using the provided shortcode - [donor_gate_form]
+5. Go to settings > DonorGate settings > Manage the fields and copy postback URLs required by Netcash
 
 == Frequently Asked Questions ==
 
